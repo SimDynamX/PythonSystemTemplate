@@ -10,7 +10,7 @@ sys.excepthook = custom_exception_handler
 sc.connect_to_sim(sys.argv)
 import numpy as np
 # DON'T CHANGE ANY OF THE ABOVE; NECESSARY FOR JOINING SIMULATION
-################################################################
+#################################################################
 
 # Now, when below the boilerplate section, you can import more things
 # import matplotlib.pyplot as plt
