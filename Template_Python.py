@@ -32,7 +32,7 @@ sc.logger_info("Hello world!")
 # exit_flag = False
 # while not exit_flag:
 #     # NOTE: Doesn't yet do timekeeping to factor in time to compute below code.
-#     # NOTE: you'll need to add this system instance param if you want to use it
+#     # NOTE: you'll need to add this system instance param if you want to use it.
 #     # time.sleep(1.0 / this.GetParam(sc.VarType.double, "LoopFreqHz"))
 
 #     # Do stuff inside of loop
