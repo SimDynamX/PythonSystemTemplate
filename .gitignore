@@ -70,3 +70,22 @@ TAGS
 
 # GeoBin files (at least for now; we need better ways of dealing with this)
 *.geobin
+
+### Directories ###
+# Regenerated python cache stuff (anywhere)
+**/__pycache__/**
+
+# Visual Studio user specific files
+**/.vs/**
+
+# IDEA user specific files
+**/.idea/**
+
+# Visual Studio default output for any CMake project
+**/out/build/**
+
+# Visual Studio temporary files for runtime code modification
+**/enc_temp_folder/**
+
+# VSCode's meta files
+**/.vscode/**
